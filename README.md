@@ -1,4 +1,4 @@
-# simple-pnpm
+# simple-workspace-pnpm
 Monorepo example with pnpm
 
 ```js
