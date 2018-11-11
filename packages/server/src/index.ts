@@ -1,3 +1,3 @@
-import { add } from '@gato/common'
+import { add } from '@beaver/common'
 
 console.log(add(2, 4))

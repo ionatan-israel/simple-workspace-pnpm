@@ -7,7 +7,7 @@
   "author": "",
   "main": "index.js",
   "scripts": {
-    "build": "lerna run build",
+    "build": "pnpm recursive run build",
     "clean": "pnpm recursive exec -- rm -rf node_modules",
     "start": "pnpm recursive run start --filter @beaver/server",
     "test": "echo \"Error: no test specified\" && exit 1"
