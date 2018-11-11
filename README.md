@@ -2,6 +2,6 @@
 Monorepo example with pnpm
 
 ```js
-pnpm install
+pnpm run build
 pnpm start
 ```
